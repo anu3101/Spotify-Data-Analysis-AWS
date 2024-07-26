@@ -7,7 +7,7 @@ This project aims to analyze YouTube trending data for three countries: the USA,
 **AWS Glue**: ETL service to transform and prepare data. <br>
 **Amazon Redshift**: Data warehouse for storing and querying processed data. <br>
 **Amazon QuickSight**: Business intelligence tool for creating visualizations and dashboards. <br>
-# Outcomes Analysis: T
+# Outcomes Analysis:
 The project provides insights into YouTube trending videos across different countries. <br>
 Using AWS services ensures the solution is scalable and can handle large volumes of data. <br>
 The ETL process is automated using AWS Glue, reducing manual effort and potential errors. <br>
