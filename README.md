@@ -4,7 +4,7 @@ This project aims to analyze Spotify 2023 albums tracks and artists data. The an
 # Tools and Technologies
 **AWS S3**: Data Storage for raw and processed data. <br>
 **AWS Glue**: ETL service to transform and prepare data. <br>
-**Snowflake**: ETL process destination and SQL Queries. <br>
+**Snowflake**: Data Transformation and SQL Queries. <br>
 **SnowSight**: Building Visualization for optimising data understanding. <br>
 # Outcomes Analysis:
 The project provides insights into Spotify 2023 global data across different countries. <br>
